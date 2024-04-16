@@ -1,0 +1,11 @@
+.body-style {
+  background-color: #0062FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hyperlink-style {
+  color: white;
+  font-size: 2em;
+}
