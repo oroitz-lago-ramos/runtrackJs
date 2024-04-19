@@ -1,0 +1,27 @@
+#rainbow {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+  align-items: flex-end;
+  border: 1px solid black;
+  min-height: 300px;
+  max-height: max-content;
+}
+
+#message{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3px;
+}
+
+#message p {
+  margin: 3px;
+  padding: 0;
+}
+
+.rainbow-img {
+  width: 100px;
+  height: auto;
+  padding: 0 1px;
+  
+}
