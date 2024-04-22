@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "first_name": "Jhon",
+    "last_name": "Doe",
+    "email": "j.d@ggmail.com"
+  },
+  {
+    "id": 2,
+    "first_name": "LOL",
+    "last_name": "VALO",
+    "email": "LOLVALO@gmail.com"
+  },
+  {
+    "id": 3,
+    "first_name": "ICH",
+    "last_name": "ICH",
+    "email": "ICHICH@gmail.com"
+  },
+
+  {
+    "id": 4,
+    "first_name": "Solo",
+    "last_name": "PLAYER",
+    "email": "S.P@gmail.com"
+  }
+]
